@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Commit Invaders](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/commit-invaders.svg)
+![Commit Invaders](https://raw.githubusercontent.com/cigon/cigon/output/commit-invaders.svg)
